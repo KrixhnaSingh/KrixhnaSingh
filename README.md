@@ -2,7 +2,7 @@
 
 🎓 Pursuing B.Tech in Computer Science<br/>
 💡 Interested in Web Development, DSA, and exploring Open Source<br/>
-💻 Working with C/C++, Python, HTML/CSS, and JavaScript<br/>
+💻 Working with C, Python, and HTML/CSS<br/>
 🎯 Goal: Contribute to impactful tech projects and grow as a full-stack developer<br/>
 ⚡ Fun fact: I enjoy making creative videos and designing posters too!<br/>
 
